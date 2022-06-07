@@ -14,4 +14,3 @@ Other        10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-![image](https://user-images.githubusercontent.com/49921028/172394332-dc966276-0071-45bb-b9bc-dbfcba8d405c.png)
