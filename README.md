@@ -13,3 +13,6 @@ Other        1 hr 19 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
+![image](https://user-images.githubusercontent.com/49921028/172886668-1f1c5802-8310-4520-883f-bf8922d67ad5.png)
+
+
