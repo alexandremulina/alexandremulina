@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Coding Stats last 30 Days starting every 1st day 
+### Coding Stats last 30 Days 
 <!--START_SECTION:waka-->
 
 ```text
