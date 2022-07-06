@@ -12,6 +12,6 @@ Other        7 hrs 7 mins    ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
+![image](https://user-images.githubusercontent.com/49921028/177437099-d5248b41-7c4b-48b5-8504-676baaa132f1.png)
 
-![image](https://user-images.githubusercontent.com/49921028/176700901-40b5938f-d5ad-469a-b791-7ca78bf0aa68.png)
 
